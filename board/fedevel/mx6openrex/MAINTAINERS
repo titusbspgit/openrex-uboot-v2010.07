@@ -1,0 +1,6 @@
+MX6OPENREX BOARD
+M:	Titus D  <titus802@gmail.com>
+S:	Maintained
+F:	board/fedevel/mx6openrex/
+F:	include/configs/mx6openrex.h
+F:	configs/mx6openrex_defconfig
